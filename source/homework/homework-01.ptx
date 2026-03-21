@@ -12,7 +12,7 @@
     <exercise>
       <statement>
         <p>
-          This is the first homework exercise.
+          For each positive integer <m>>m</m>>, there is a special vector that has what we call the \textbf{zero property}, which is, whenever you add it to another vector, you get that other vector back.  In symbols, we say $\textbf{z}\in \mathbb{R}^m$ has the zero property if for all $\mathbf{v}\in \mathbb{R}^m$, $\mathbf{z}+\mathbf{v}=\mathbf{v}$.  Deduce what $\mathbf{z}$ must be and explain how it has the zero property.  What food item might have $\mathbf{z}$ as its nutrition facts vector?
         </p>
       </statement>
     </exercise>

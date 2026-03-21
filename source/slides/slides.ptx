@@ -7,7 +7,7 @@
   <xi:include href="../docinfo.ptx"/>
 
   <slideshow xml:id="slides">
-    <title>Slides for MATH xxx</title>
+    <title>Slides for MATH 31</title>
 
     <frontmatter>
       <titlepage-items/>
@@ -20,7 +20,13 @@
 
       <slide>
         <title>[topic]</title>
-
+        
+        <me>
+  f(x) = \color{red}{\underbrace{x^2}_{\text{Input squared}}} + 5
+    <annotations>
+    <description>The sine function, which represents periodic oscillation.</description>
+  </annotations>
+</me>
 
       </slide>
     </section>
