@@ -12,15 +12,14 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for [term] 20xx.
-      It is a [n] credit course.
+      This is the syllabus for <term>Math 31, Section 10</term> for Winter 2026.
       <!-- use a description list (dl) for short items -->
       <dl>
         <li>
           <title>Instructor</title>
 
           <p>
-            Prof. Lastname, Office Location, <url href="mailto:prof.lastname@example.edu">prof.lastname@example.edu</url>.
+            Dr. Jeffrey S. Meyer, Skye 223, <url href="mailto:Jeffrey.Meyer@ucr.edu">Jeffrey.Meyer@ucr.edu</url>.
           </p>
         </li>
 
@@ -28,7 +27,7 @@
           <title>Student Hours</title>
 
           <p>
-            TBD
+            MTF 1-2p,
           </p>
         </li>
 
@@ -36,7 +35,7 @@
           <title>Class meets</title>
 
           <p>
-            course times and location.
+            MW 11am-12:20pm in SSC 335
           </p>
         </li>
 
@@ -60,8 +59,8 @@
           <title>Textbook and course materials</title>
 
           <p>
-            <pubtitle>textbook name</pubtitle>
-            by textbook author.
+            <pubtitle>Concepts of Linear Algebra (COLA)</pubtitle>
+            by Dr. Jeffrey S. Meyer.
           </p>
         </li>
       </dl>
